@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+#printable {
+    background-color: white !important;
+    color: black !important;
+}
